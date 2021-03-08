@@ -1,0 +1,54 @@
+body {
+    color: #8fb3b5;
+    background-color: #000;
+    font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+}
+
+.hash{
+    /*background-color: lightgray;*/
+    /*height: 400px;*/
+    width: 240px;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+#hashwrapper{
+    max-width: 1500px;
+    margin: 0 auto;
+    /*background-color: gray;*/
+    
+}
+
+.hash p span{
+    display: block;
+}
+
+.always{
+    color: #f2e994;
+}
+
+#dig_wrap div{
+    display: inline-block;
+}
+
+#count span{
+    color: black;
+    padding: 5px;
+}
+
+#total{
+    margin-left: 50px;
+}
+
+.nomore{
+    background-color: #ffadad;
+}
+
+.maymore{
+    background-color: #afffad;
+}
+
+#result{
+    padding: 20px 0 20px 0;
+    color: #3c949e;
+}
